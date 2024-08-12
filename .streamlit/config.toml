@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#082a38"
+backgroundColor = "#cceeff"
+secondaryBackgroundColor = "#57c8de"
+textColor = "#005148"
+font = "sans serif"
+
+# Personaliza el color de la letra en el menú de la izquierda
+[theme.sidebar]
+textColor = "#00008b"  # Azul oscuro
